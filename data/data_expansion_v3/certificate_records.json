@@ -1,0 +1,33 @@
+[
+  {
+    "record_id": "cert_ip_industrial",
+    "certificate": "정보처리산업기사",
+    "category": "국가기술자격",
+    "credits": 2,
+    "matched_courses": [
+      "운영체제",
+      "C/C++프로그래밍",
+      "데이터베이스",
+      "컴퓨터구조",
+      "웹프로그래밍",
+      "객체지향프로그래밍",
+      "자료구조",
+      "DB프로그래밍",
+      "리눅스시스템",
+      "서버프로그래밍"
+    ],
+    "department_original": "컴퓨터정보공학과",
+    "department_canonical": "AI소프트웨어학과",
+    "source": "2026학년도 학점인정 자격증 및 매칭 교과목.pdf",
+    "source_id": "source_3",
+    "page": 3,
+    "year": "2026",
+    "document_type": "자격증학점인정",
+    "extraction": "merged_table_block_visually_verified",
+    "verification_source": {
+      "source": "AI소프트웨어학과 자격증 학점인정 안내.pdf",
+      "page": 1,
+      "section": "3. 학점인정 자격증 현황"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "canonical": "AI소프트웨어학과",
+  "aliases": [
+    "AI소프트웨어학과",
+    "컴퓨터정보공학과"
+  ],
+  "evidence_url": "https://cs.inhatc.ac.kr/cs/index.do",
+  "evidence_text": "AI소프트웨어학과(구.컴퓨터정보공학과)",
+  "verified_at": "2026-09-29",
+  "method": "actual_browser_visible_text",
+  "note": "Search alias only; no other department or year equivalence inferred."
+}

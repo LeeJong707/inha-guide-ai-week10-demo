@@ -1,0 +1,56 @@
+# 비밀 정보
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python 임시 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# 자동 생성 데이터
+chroma_db/
+# chroma_db_v3 is the verified runtime DB and must accompany app.py.
+archive/chroma_db/
+archive/cleanup_20261003/
+output/
+
+# 운영체제 임시 파일
+.DS_Store
+Thumbs.db
+# Local verification caches (inside this test project)
+work/runtime/
+work/week6/rebuilt_db/
+tools/presentation_builder/node_modules/
+tools/presentation_builder/render/
+tools/presentation_builder/week*/*
+!tools/presentation_builder/week*/content.json
+tools/presentation_builder/*-build.log
+
+.chart-data-*/
+work/data_expansion_v3/*.png
+work/data_expansion_v3/*_text.txt
+work/data_expansion_v3/*_tables.json
+
+# Isolated source-layout validation copies
+work/source_layout_20261003/runtime_db/
+work/source_layout_20261003/original_files/
+tools/presentation_builder/artifact_verification.json
+
+# Isolated user-question verification copies
+work/user_questions_20261003/runtime_db/
+work/user_questions_20261003/original_files/
+
+# Maintenance 2026-11-02: disposable week9 execution DBs only.
+# Keep questions, labels, predictions, scores, code, freezes and pristine evidence visible.
+work/week9_intent_generalization_20261026/browser_run_db/
+work/week9_intent_generalization_20261026/regression_run_db/
+work/week9_intent_generalization_20261026/final_eval_db/
+work/week9_intent_generalization_20261026/final_eval_db_attempt*/
+archive/cleanup_20261102/python_cache/

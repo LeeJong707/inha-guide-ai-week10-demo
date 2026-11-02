@@ -1,0 +1,12 @@
+*.pdf binary
+*.pptx binary
+*.joblib binary
+*.png binary
+# Preserve frozen evaluation inputs byte-for-byte across Git checkouts.
+evaluation/evaluation_questions.json -text
+docs/evidence/week5/data/*.json -text
+intent_dataset.csv -text
+manual_overrides.json -text
+
+# Preserve the verified Chroma seed bytes on Linux checkouts.
+chroma_db_v3/** binary

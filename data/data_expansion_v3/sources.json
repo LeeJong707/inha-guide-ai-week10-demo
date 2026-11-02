@@ -1,0 +1,70 @@
+[
+  {
+    "source_id": "source_1",
+    "source": "2026학년도 대체과목 설정 안내.pdf",
+    "relative_path": "data/sources/pdf/2026학년도 대체과목 설정 안내.pdf",
+    "sha256": "15984f7dcad415e68f9d3648bc902d96e84f767bd6ebe3242f5c42e82d4cc401",
+    "pages": 2,
+    "year": "2026",
+    "semester": 2,
+    "document_type": "대체과목",
+    "extraction": "pdfplumber_text_table",
+    "extracted_text_chars": [
+      808,
+      487
+    ]
+  },
+  {
+    "source_id": "source_2",
+    "source": "2026학년도 대체과목 설정표.pdf",
+    "relative_path": "data/sources/pdf/2026학년도 대체과목 설정표.pdf",
+    "sha256": "2e33a780c6ee533a0452068a1e9bfaaa32708ca84a14119ac6f0b607f9ba8065",
+    "pages": 5,
+    "year": "2026",
+    "semester": 0,
+    "document_type": "대체과목",
+    "extraction": "pdfplumber_text_table",
+    "extracted_text_chars": [
+      3948,
+      4164,
+      4740,
+      4368,
+      3501
+    ]
+  },
+  {
+    "source_id": "source_3",
+    "source": "2026학년도 학점인정 자격증 및 매칭 교과목.pdf",
+    "relative_path": "data/sources/pdf/2026학년도 학점인정 자격증 및 매칭 교과목.pdf",
+    "sha256": "7991569791f205e68e2f46124764bf7fea44d669ff8d661668c68350d936fa44",
+    "pages": 7,
+    "year": "2026",
+    "semester": 0,
+    "document_type": "자격증학점인정",
+    "extraction": "pdfplumber_text_table",
+    "extracted_text_chars": [
+      644,
+      448,
+      664,
+      497,
+      525,
+      656,
+      68
+    ]
+  },
+  {
+    "source_id": "source_4",
+    "source": "AI소프트웨어학과 자격증 학점인정 안내.pdf",
+    "relative_path": "data/sources/pdf/AI소프트웨어학과 자격증 학점인정 안내.pdf",
+    "sha256": "6814dee1088c7113bbe80dc21b08e77d6abde2ade518c9d78734521fddcd8ba0",
+    "pages": 2,
+    "year": "2026",
+    "semester": 2,
+    "document_type": "자격증학점인정",
+    "extraction": "manual_visual_transcription",
+    "extracted_text_chars": [
+      0,
+      0
+    ]
+  }
+]
